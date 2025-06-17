@@ -1,0 +1,452 @@
+{
+  "timestamp": "2025-06-17T16:46:44.817281",
+  "name": "Orchard View",
+  "status": "Active",
+  "url": "https://www.centurycommunities.com/find-your-new-home/california/central-california-metro/chowchilla/orchard-view/",
+  "price_from": "From $387,990",
+  "address": "588 Burnett Avenue,, Chowchilla, CA 93610",
+  "phone": "559-256-8622",
+  "description": "Century Communities is excited to offer new homes for sale in Chowchilla, CA, at Orchard View. Boasting large homesites and modern style, these homes are designed with your comfort and convenience in mind. Each floor plan is thoughtfully created to complement any lifestyle, showcasing versatility and functionality. Situated about 20 miles from Fresno, Orchard View is in a great location for those commuting to Merced or Madera. We’re proud to be one of the top CA homebuilders, and we’d be thrilled to help find you the Chowchilla home of your dreams.",
+  "images": [
+    "https://www.centurycommunities.com/globalassets/century/assets/elevations--amenities/ccs/ccs--ca/central-valley/orchard-view/1885---cumberland/orchard-view-cumberland-3-bay-elevation-b-left-swing-chowchilla-ca.jpg?width=960&height=0&rmode=crop&rsampler=bicubic&compand=true&v=602"
+  ],
+  "location": {
+    "latitude": 37.114612,
+    "longitude": -120.285904,
+    "address": {
+      "city": "Chowchilla",
+      "state": "CA",
+      "market": "Atlanta Metro"
+    }
+  },
+  "details": {
+    "price_range": "From $387,990",
+    "sqft_range": "1,291 - 1,885 sq ft",
+    "bed_range": "3 - 4 Beds",
+    "bath_range": "2.0 Baths",
+    "stories_range": "1 Story",
+    "community_count": 1
+  },
+  "amenities": [],
+  "homeplans": [
+    {
+      "name": "Abernathy",
+      "url": "https://www.centurycommunities.com/find-your-new-home/california/central-california-metro/chowchilla/orchard-view/lots/0007-585-englewood-avenue/",
+      "details": {
+        "price": "$387,990",
+        "beds": "3 br",
+        "baths": "2 ba",
+        "sqft": "1,291 sq ft",
+        "status": "Actively selling",
+        "image_url": "https://www.centurycommunities.com/globalassets/century/assets/elevations--amenities/ccs/ccs--ca/central-valley/orchard-view/1291---abernathy/orchard-view-abernathy-elevation-c-left-swing-chowchilla-ca.jpg?width=410&height=250&mode=crop"
+      },
+      "includedFeatures": [],
+      "floorplan_images": [
+        {
+          "name": "First Floor Floorplan",
+          "image_url": "https://www.centurycommunities.com/globalassets/century/assets/elevations--amenities/ccs/ccs--ca/central-valley/orchard-view/1291---abernathy/orchard-view-abernathy-floor-plan-left-swing-chowchilla-ca.jpg?width=810&height=0&rmode=crop&rsampler=bicubic&compand=true&v=281"
+        }
+      ]
+    },
+    {
+      "name": "Beaumont",
+      "url": "https://www.centurycommunities.com/find-your-new-home/california/central-california-metro/chowchilla/orchard-view/lots/0061-593-victoria-avenue/",
+      "details": {
+        "price": "$405,510",
+        "beds": "3 br",
+        "baths": "2 ba",
+        "sqft": "1,415 sq ft",
+        "status": "Actively selling",
+        "image_url": "https://www.centurycommunities.com/globalassets/century/assets/elevations--amenities/ccs/ccs--ca/central-valley/orchard-view/1415---beaumont/orchard-view-beaumont-elevation-b-right-swing-chowchilla-ca.jpg?width=410&height=250&mode=crop"
+      },
+      "includedFeatures": [],
+      "floorplan_images": [
+        {
+          "name": "First Floor Floorplan",
+          "image_url": "https://www.centurycommunities.com/globalassets/century/assets/elevations--amenities/ccs/ccs--ca/central-valley/orchard-view/1415---beaumont/orchard-view-beaumont-floor-plan-right-swing-chowchilla-ca.jpg?width=810&height=0&rmode=crop&rsampler=bicubic&compand=true&v=369"
+        }
+      ]
+    },
+    {
+      "name": "Dublin",
+      "url": "https://www.centurycommunities.com/find-your-new-home/california/central-california-metro/chowchilla/orchard-view/lots/0051-564-victoria-avenue/",
+      "details": {
+        "price": "$411,455",
+        "beds": "3 br",
+        "baths": "2 ba",
+        "sqft": "1,572 sq ft",
+        "status": "Actively selling",
+        "image_url": "https://www.centurycommunities.com/globalassets/century/assets/elevations--amenities/ccs/ccs--ca/central-valley/orchard-view/1572---dublin/orchard-view-dublin-elevation-a-left-swing-chowchilla-ca.jpg?width=410&height=250&mode=crop"
+      },
+      "includedFeatures": [],
+      "floorplan_images": [
+        {
+          "name": "First Floor Floorplan",
+          "image_url": "https://www.centurycommunities.com/globalassets/century/assets/elevations--amenities/ccs/ccs--ca/central-valley/orchard-view/1572---dublin/orchard-view-dublin-floor-plan-left-swing-chowchilla-ca.jpg?width=810&height=0&rmode=crop&rsampler=bicubic&compand=true&v=407"
+        }
+      ]
+    },
+    {
+      "name": "Cabot",
+      "url": "https://www.centurycommunities.com/find-your-new-home/california/central-california-metro/chowchilla/orchard-view/lots/0067-569-victoria-avenue/",
+      "details": {
+        "price": "$432,265",
+        "beds": "4 br",
+        "baths": "2 ba",
+        "sqft": "1,690 sq ft",
+        "status": "Actively selling",
+        "image_url": "https://www.centurycommunities.com/globalassets/century/assets/elevations--amenities/ccs/ccs--ca/central-valley/orchard-view/1690---cabot/orchard-view-cabot-elevation-a-left-swing-chowchilla-ca.jpg?width=410&height=250&mode=crop"
+      },
+      "includedFeatures": [],
+      "floorplan_images": [
+        {
+          "name": "First Floor Floorplan",
+          "image_url": "https://www.centurycommunities.com/globalassets/century/assets/elevations--amenities/ccs/ccs--ca/central-valley/orchard-view/1690---cabot/orchard-view-cabot-floor-plan-left-swing-chowchilla-ca.jpg?width=810&height=0&rmode=crop&rsampler=bicubic&compand=true&v=153"
+        },
+        {
+          "name": "First Floor - 3-Bay Garage Floorplan",
+          "image_url": "https://www.centurycommunities.com/globalassets/century/assets/elevations--amenities/ccs/ccs--ca/central-valley/orchard-view/1690---cabot/orchard-view-cabot-floor-plan-left-swing-3-bay-garage-chowchilla-ca.jpg?width=810&height=0&rmode=crop&rsampler=bicubic&compand=true&v=830"
+        }
+      ]
+    },
+    {
+      "name": "Cumberland",
+      "url": "https://www.centurycommunities.com/find-your-new-home/california/central-california-metro/chowchilla/orchard-view/lots/0068-565-victoria-avenue/",
+      "details": {
+        "price": "$437,960",
+        "beds": "4 br",
+        "baths": "2 ba",
+        "sqft": "1,885 sq ft",
+        "status": "Actively selling",
+        "image_url": "https://www.centurycommunities.com/globalassets/century/assets/elevations--amenities/ccs/ccs--ca/central-valley/orchard-view/1885---cumberland/orchard-view-cumberland-elevation-c-left-swing-chowchilla-ca.jpg?width=410&height=250&mode=crop"
+      },
+      "includedFeatures": [],
+      "floorplan_images": [
+        {
+          "name": "First Floor Floorplan",
+          "image_url": "https://www.centurycommunities.com/globalassets/century/assets/elevations--amenities/ccs/ccs--ca/central-valley/orchard-view/1885---cumberland/orchard-view-cumberland-floor-plan-left-swing-chowchilla-ca.jpg?width=810&height=0&rmode=crop&rsampler=bicubic&compand=true&v=902"
+        },
+        {
+          "name": "First Floor - 3-Bay Garage Floorplan",
+          "image_url": "https://www.centurycommunities.com/globalassets/century/assets/elevations--amenities/ccs/ccs--ca/central-valley/orchard-view/1885---cumberland/orchard-view-cumberland-floor-plan-left-swing-3-bay-garage-chowchilla-ca.jpg?width=810&height=0&rmode=crop&rsampler=bicubic&compand=true&v=624"
+        }
+      ]
+    }
+  ],
+  "homesites": [
+    {
+      "name": "585 Englewood Avenue",
+      "plan": "Abernathy",
+      "id": "0007-585-englewood-avenue",
+      "address": "585 Englewood Avenue, McDonough, GA",
+      "price": "$387,990",
+      "beds": "3",
+      "baths": "2",
+      "sqft": "1291",
+      "status": "Move-in Ready",
+      "image_url": "https://www.centurycommunities.com/globalassets/century/assets/elevations--amenities/ccs/ccs--ca/central-valley/orchard-view/1291---abernathy/orchard-view-abernathy-elevation-c-left-swing-chowchilla-ca.jpg?width=410&height=250&mode=crop",
+      "url": "https://www.centurycommunities.com/find-your-new-home/california/central-california-metro/chowchilla/orchard-view/lots/0007-585-englewood-avenue/",
+      "latitude": 37.114612,
+      "longitude": -120.285904,
+      "overview": "Blinds Included No HOA",
+      "images": [
+        "https://www.centurycommunities.com/globalassets/century/assets/elevations--amenities/ccs/ccs--ca/central-valley/orchard-view/1291---abernathy/orchard-view-abernathy-elevation-c-left-swing-chowchilla-ca.jpg?width=960&height=0&rmode=crop&rsampler=bicubic&compand=true&v=505",
+        "https://www.centurycommunities.com/globalassets/century/assets/elevations--amenities/ccs/ccs--ca/central-valley/orchard-view/0---interior-color-packages/dolce-i---white.jpg?width=960&height=0&rmode=crop&rsampler=bicubic&compand=true&v=6",
+        "https://www.centurycommunities.com/contentassets/f9bca9c9ee904ba6aedb8e61f4f2a11d/cv0225472_homeownerreferral_web_v1_540-x-370.jpg",
+        "https://www.centurycommunities.com/contentassets/7cfaa613e6654e4d94188a5e791803eb/hometownhero_2024_promotile_v1_644-x-455.jpg",
+        "https://www.centurycommunities.com/contentassets/876987536b10470c96a2334e8aa0166f/ccs-june-flash-sale-promo_slider.jpg"
+      ]
+    },
+    {
+      "name": "585 Victoria Avenue",
+      "plan": "Abernathy",
+      "id": "0063-585-victoria-avenue",
+      "address": "585 Victoria Avenue, McDonough, GA",
+      "price": "$390,865",
+      "beds": "3",
+      "baths": "2",
+      "sqft": "1291",
+      "status": "Move-in Ready",
+      "image_url": "https://www.centurycommunities.com/globalassets/century/assets/elevations--amenities/ccs/ccs--ca/central-valley/orchard-view/1291---abernathy/orchard-view-abernathy-elevation-b-left-swing-chowchilla-ca.jpg?width=410&height=250&mode=crop",
+      "url": "https://www.centurycommunities.com/find-your-new-home/california/central-california-metro/chowchilla/orchard-view/lots/0063-585-victoria-avenue/",
+      "latitude": 37.114612,
+      "longitude": -120.285904,
+      "overview": "No HOA",
+      "images": [
+        "https://www.centurycommunities.com/globalassets/century/assets/elevations--amenities/ccs/ccs--ca/central-valley/orchard-view/1291---abernathy/orchard-view-abernathy-elevation-b-left-swing-chowchilla-ca.jpg?width=960&height=0&rmode=crop&rsampler=bicubic&compand=true&v=772",
+        "https://www.centurycommunities.com/contentassets/f9bca9c9ee904ba6aedb8e61f4f2a11d/cv0225472_homeownerreferral_web_v1_540-x-370.jpg",
+        "https://www.centurycommunities.com/contentassets/7cfaa613e6654e4d94188a5e791803eb/hometownhero_2024_promotile_v1_644-x-455.jpg",
+        "https://www.centurycommunities.com/contentassets/876987536b10470c96a2334e8aa0166f/ccs-june-flash-sale-promo_slider.jpg"
+      ]
+    },
+    {
+      "name": "593 Victoria Avenue",
+      "plan": "Beaumont",
+      "id": "0061-593-victoria-avenue",
+      "address": "593 Victoria Avenue, McDonough, GA",
+      "price": "$405,510",
+      "beds": "3",
+      "baths": "2",
+      "sqft": "1415",
+      "status": "Move-in Ready",
+      "image_url": "https://www.centurycommunities.com/globalassets/century/assets/elevations--amenities/ccs/ccs--ca/central-valley/orchard-view/1415---beaumont/orchard-view-beaumont-elevation-b-right-swing-chowchilla-ca.jpg?width=410&height=250&mode=crop",
+      "url": "https://www.centurycommunities.com/find-your-new-home/california/central-california-metro/chowchilla/orchard-view/lots/0061-593-victoria-avenue/",
+      "latitude": 37.114612,
+      "longitude": -120.285904,
+      "overview": "No HOA",
+      "images": [
+        "https://www.centurycommunities.com/globalassets/century/assets/elevations--amenities/ccs/ccs--ca/central-valley/orchard-view/1415---beaumont/orchard-view-beaumont-elevation-b-right-swing-chowchilla-ca.jpg?width=960&height=0&rmode=crop&rsampler=bicubic&compand=true&v=574",
+        "https://www.centurycommunities.com/contentassets/f9bca9c9ee904ba6aedb8e61f4f2a11d/cv0225472_homeownerreferral_web_v1_540-x-370.jpg",
+        "https://www.centurycommunities.com/contentassets/7cfaa613e6654e4d94188a5e791803eb/hometownhero_2024_promotile_v1_644-x-455.jpg",
+        "https://www.centurycommunities.com/contentassets/876987536b10470c96a2334e8aa0166f/ccs-june-flash-sale-promo_slider.jpg"
+      ]
+    },
+    {
+      "name": "588 Victoria Avenue",
+      "plan": "Beaumont",
+      "id": "0056-588-victoria-avenue",
+      "address": "588 Victoria Avenue, McDonough, GA",
+      "price": "$405,775",
+      "beds": "3",
+      "baths": "2",
+      "sqft": "1415",
+      "status": "Move-in Ready",
+      "image_url": "https://www.centurycommunities.com/globalassets/century/assets/elevations--amenities/ccs/ccs--ca/central-valley/orchard-view/1415---beaumont/orchard-view-beaumont-elevation-b-right-swing-chowchilla-ca.jpg?width=410&height=250&mode=crop",
+      "url": "https://www.centurycommunities.com/find-your-new-home/california/central-california-metro/chowchilla/orchard-view/lots/0056-588-victoria-avenue/",
+      "latitude": 37.114612,
+      "longitude": -120.285904,
+      "overview": "Blinds Included No HOA",
+      "images": [
+        "https://www.centurycommunities.com/globalassets/century/assets/elevations--amenities/ccs/ccs--ca/central-valley/orchard-view/1415---beaumont/orchard-view-beaumont-elevation-b-right-swing-chowchilla-ca.jpg?width=960&height=0&rmode=crop&rsampler=bicubic&compand=true&v=574",
+        "https://www.centurycommunities.com/contentassets/f9bca9c9ee904ba6aedb8e61f4f2a11d/cv0225472_homeownerreferral_web_v1_540-x-370.jpg",
+        "https://www.centurycommunities.com/contentassets/7cfaa613e6654e4d94188a5e791803eb/hometownhero_2024_promotile_v1_644-x-455.jpg",
+        "https://www.centurycommunities.com/contentassets/876987536b10470c96a2334e8aa0166f/ccs-june-flash-sale-promo_slider.jpg"
+      ]
+    },
+    {
+      "name": "564 Victoria Avenue",
+      "plan": "Dublin",
+      "id": "0051-564-victoria-avenue",
+      "address": "564 Victoria Avenue, McDonough, GA",
+      "price": "$411,455",
+      "beds": "3",
+      "baths": "2",
+      "sqft": "1572",
+      "status": "Move-in Ready",
+      "image_url": "https://www.centurycommunities.com/globalassets/century/assets/elevations--amenities/ccs/ccs--ca/central-valley/orchard-view/1572---dublin/orchard-view-dublin-elevation-a-left-swing-chowchilla-ca.jpg?width=410&height=250&mode=crop",
+      "url": "https://www.centurycommunities.com/find-your-new-home/california/central-california-metro/chowchilla/orchard-view/lots/0051-564-victoria-avenue/",
+      "latitude": 37.114612,
+      "longitude": -120.285904,
+      "overview": "Blinds Included No HOA",
+      "images": [
+        "https://www.centurycommunities.com/globalassets/century/assets/elevations--amenities/ccs/ccs--ca/central-valley/orchard-view/1572---dublin/orchard-view-dublin-elevation-a-left-swing-chowchilla-ca.jpg?width=960&height=0&rmode=crop&rsampler=bicubic&compand=true&v=28",
+        "https://www.centurycommunities.com/contentassets/f9bca9c9ee904ba6aedb8e61f4f2a11d/cv0225472_homeownerreferral_web_v1_540-x-370.jpg",
+        "https://www.centurycommunities.com/contentassets/7cfaa613e6654e4d94188a5e791803eb/hometownhero_2024_promotile_v1_644-x-455.jpg",
+        "https://www.centurycommunities.com/contentassets/876987536b10470c96a2334e8aa0166f/ccs-june-flash-sale-promo_slider.jpg"
+      ]
+    },
+    {
+      "name": "580 Victoria Avenue",
+      "plan": "Dublin",
+      "id": "0054-580-victoria-avenue",
+      "address": "580 Victoria Avenue, McDonough, GA",
+      "price": "$411,740",
+      "beds": "3",
+      "baths": "2",
+      "sqft": "1572",
+      "status": "Move-in Ready",
+      "image_url": "https://www.centurycommunities.com/globalassets/century/assets/elevations--amenities/ccs/ccs--ca/central-valley/orchard-view/1572---dublin/orchard-view-dublin-elevation-a-left-swing-chowchilla-ca.jpg?width=410&height=250&mode=crop",
+      "url": "https://www.centurycommunities.com/find-your-new-home/california/central-california-metro/chowchilla/orchard-view/lots/0054-580-victoria-avenue/",
+      "latitude": 37.114612,
+      "longitude": -120.285904,
+      "overview": "BLinds Inlcuded No HOA",
+      "images": [
+        "https://www.centurycommunities.com/globalassets/century/assets/elevations--amenities/ccs/ccs--ca/central-valley/orchard-view/1572---dublin/orchard-view-dublin-elevation-a-left-swing-chowchilla-ca.jpg?width=960&height=0&rmode=crop&rsampler=bicubic&compand=true&v=28",
+        "https://www.centurycommunities.com/contentassets/f9bca9c9ee904ba6aedb8e61f4f2a11d/cv0225472_homeownerreferral_web_v1_540-x-370.jpg",
+        "https://www.centurycommunities.com/contentassets/7cfaa613e6654e4d94188a5e791803eb/hometownhero_2024_promotile_v1_644-x-455.jpg",
+        "https://www.centurycommunities.com/contentassets/876987536b10470c96a2334e8aa0166f/ccs-june-flash-sale-promo_slider.jpg"
+      ]
+    },
+    {
+      "name": "1609 Castro Avenue",
+      "plan": "Dublin",
+      "id": "0046-1609-castro-avenue",
+      "address": "1609 Castro Avenue, McDonough, GA",
+      "price": "$415,490",
+      "beds": "3",
+      "baths": "2",
+      "sqft": "1572",
+      "status": "Move-in Ready",
+      "image_url": "https://www.centurycommunities.com/globalassets/century/assets/elevations--amenities/ccs/ccs--ca/central-valley/orchard-view/1572---dublin/orchard-view-dublin-elevation-c-right-swing-chowchilla-ca.jpg?width=410&height=250&mode=crop",
+      "url": "https://www.centurycommunities.com/find-your-new-home/california/central-california-metro/chowchilla/orchard-view/lots/0046-1609-castro-avenue/",
+      "latitude": 37.114612,
+      "longitude": -120.285904,
+      "overview": "Covered Patio Lots of Storage",
+      "images": [
+        "https://www.centurycommunities.com/globalassets/century/assets/elevations--amenities/ccs/ccs--ca/central-valley/orchard-view/1572---dublin/orchard-view-dublin-elevation-c-right-swing-chowchilla-ca.jpg?width=960&height=0&rmode=crop&rsampler=bicubic&compand=true&v=770",
+        "https://www.centurycommunities.com/globalassets/century/assets/elevations--amenities/ccs/ccs--ca/central-valley/orchard-view/0---interior-color-packages/dolce-i---white.jpg?width=960&height=0&rmode=crop&rsampler=bicubic&compand=true&v=6",
+        "https://www.centurycommunities.com/contentassets/f9bca9c9ee904ba6aedb8e61f4f2a11d/cv0225472_homeownerreferral_web_v1_540-x-370.jpg",
+        "https://www.centurycommunities.com/contentassets/7cfaa613e6654e4d94188a5e791803eb/hometownhero_2024_promotile_v1_644-x-455.jpg",
+        "https://www.centurycommunities.com/contentassets/876987536b10470c96a2334e8aa0166f/ccs-june-flash-sale-promo_slider.jpg"
+      ]
+    },
+    {
+      "name": "569 Victoria Avenue",
+      "plan": "Cabot",
+      "id": "0067-569-victoria-avenue",
+      "address": "569 Victoria Avenue, McDonough, GA",
+      "price": "$432,265",
+      "beds": "4",
+      "baths": "2",
+      "sqft": "1690",
+      "status": "Move-in Ready",
+      "image_url": "https://www.centurycommunities.com/globalassets/century/assets/elevations--amenities/ccs/ccs--ca/central-valley/orchard-view/1690---cabot/orchard-view-cabot-elevation-a-left-swing-chowchilla-ca.jpg?width=410&height=250&mode=crop",
+      "url": "https://www.centurycommunities.com/find-your-new-home/california/central-california-metro/chowchilla/orchard-view/lots/0067-569-victoria-avenue/",
+      "latitude": 37.114612,
+      "longitude": -120.285904,
+      "overview": "No HOA",
+      "images": [
+        "https://www.centurycommunities.com/globalassets/century/assets/elevations--amenities/ccs/ccs--ca/central-valley/orchard-view/1690---cabot/orchard-view-cabot-elevation-a-left-swing-chowchilla-ca.jpg?width=960&height=0&rmode=crop&rsampler=bicubic&compand=true&v=172",
+        "https://www.centurycommunities.com/contentassets/f9bca9c9ee904ba6aedb8e61f4f2a11d/cv0225472_homeownerreferral_web_v1_540-x-370.jpg",
+        "https://www.centurycommunities.com/contentassets/7cfaa613e6654e4d94188a5e791803eb/hometownhero_2024_promotile_v1_644-x-455.jpg",
+        "https://www.centurycommunities.com/contentassets/876987536b10470c96a2334e8aa0166f/ccs-june-flash-sale-promo_slider.jpg"
+      ]
+    },
+    {
+      "name": "560 Victoria Avenue",
+      "plan": "Cabot",
+      "id": "0050-560-victoria-avenue",
+      "address": "560 Victoria Avenue, McDonough, GA",
+      "price": "$433,010",
+      "beds": "4",
+      "baths": "2",
+      "sqft": "1690",
+      "status": "Move-in Ready",
+      "image_url": "https://www.centurycommunities.com/globalassets/century/assets/elevations--amenities/ccs/ccs--ca/central-valley/orchard-view/1690---cabot/orchard-view-cabot-elevation-b-left-swing-chowchilla-ca.jpg?width=410&height=250&mode=crop",
+      "url": "https://www.centurycommunities.com/find-your-new-home/california/central-california-metro/chowchilla/orchard-view/lots/0050-560-victoria-avenue/",
+      "latitude": 37.114612,
+      "longitude": -120.285904,
+      "overview": "Blinds Included No HOA",
+      "images": [
+        "https://www.centurycommunities.com/globalassets/century/assets/elevations--amenities/ccs/ccs--ca/central-valley/orchard-view/1690---cabot/orchard-view-cabot-elevation-b-left-swing-chowchilla-ca.jpg?width=960&height=0&rmode=crop&rsampler=bicubic&compand=true&v=977",
+        "https://www.centurycommunities.com/contentassets/f9bca9c9ee904ba6aedb8e61f4f2a11d/cv0225472_homeownerreferral_web_v1_540-x-370.jpg",
+        "https://www.centurycommunities.com/contentassets/7cfaa613e6654e4d94188a5e791803eb/hometownhero_2024_promotile_v1_644-x-455.jpg",
+        "https://www.centurycommunities.com/contentassets/876987536b10470c96a2334e8aa0166f/ccs-june-flash-sale-promo_slider.jpg"
+      ]
+    },
+    {
+      "name": "581 Victoria Avenue",
+      "plan": "Cabot",
+      "id": "0064-581-victoria-avenue",
+      "address": "581 Victoria Avenue, McDonough, GA",
+      "price": "$434,530",
+      "beds": "4",
+      "baths": "2",
+      "sqft": "1690",
+      "status": "Move-in Ready",
+      "image_url": "https://www.centurycommunities.com/globalassets/century/assets/elevations--amenities/ccs/ccs--ca/central-valley/orchard-view/1690---cabot/orchard-view-cabot-elevation-a-left-swing-chowchilla-ca.jpg?width=410&height=250&mode=crop",
+      "url": "https://www.centurycommunities.com/find-your-new-home/california/central-california-metro/chowchilla/orchard-view/lots/0064-581-victoria-avenue/",
+      "latitude": 37.114612,
+      "longitude": -120.285904,
+      "overview": "No HOA",
+      "images": [
+        "https://www.centurycommunities.com/globalassets/century/assets/elevations--amenities/ccs/ccs--ca/central-valley/orchard-view/1690---cabot/orchard-view-cabot-elevation-a-left-swing-chowchilla-ca.jpg?width=960&height=0&rmode=crop&rsampler=bicubic&compand=true&v=172",
+        "https://www.centurycommunities.com/contentassets/f9bca9c9ee904ba6aedb8e61f4f2a11d/cv0225472_homeownerreferral_web_v1_540-x-370.jpg",
+        "https://www.centurycommunities.com/contentassets/7cfaa613e6654e4d94188a5e791803eb/hometownhero_2024_promotile_v1_644-x-455.jpg",
+        "https://www.centurycommunities.com/contentassets/876987536b10470c96a2334e8aa0166f/ccs-june-flash-sale-promo_slider.jpg"
+      ]
+    },
+    {
+      "name": "565 Victoria Avenue",
+      "plan": "Cumberland",
+      "id": "0068-565-victoria-avenue",
+      "address": "565 Victoria Avenue, McDonough, GA",
+      "price": "$437,960",
+      "beds": "4",
+      "baths": "2",
+      "sqft": "1885",
+      "status": "Move-in Ready",
+      "image_url": "https://www.centurycommunities.com/globalassets/century/assets/elevations--amenities/ccs/ccs--ca/central-valley/orchard-view/1885---cumberland/orchard-view-cumberland-elevation-c-left-swing-chowchilla-ca.jpg?width=410&height=250&mode=crop",
+      "url": "https://www.centurycommunities.com/find-your-new-home/california/central-california-metro/chowchilla/orchard-view/lots/0068-565-victoria-avenue/",
+      "latitude": 37.114612,
+      "longitude": -120.285904,
+      "overview": "No HOA",
+      "images": [
+        "https://www.centurycommunities.com/globalassets/century/assets/elevations--amenities/ccs/ccs--ca/central-valley/orchard-view/1885---cumberland/orchard-view-cumberland-elevation-c-left-swing-chowchilla-ca.jpg?width=960&height=0&rmode=crop&rsampler=bicubic&compand=true&v=97",
+        "https://www.centurycommunities.com/contentassets/f9bca9c9ee904ba6aedb8e61f4f2a11d/cv0225472_homeownerreferral_web_v1_540-x-370.jpg",
+        "https://www.centurycommunities.com/contentassets/7cfaa613e6654e4d94188a5e791803eb/hometownhero_2024_promotile_v1_644-x-455.jpg",
+        "https://www.centurycommunities.com/contentassets/876987536b10470c96a2334e8aa0166f/ccs-june-flash-sale-promo_slider.jpg"
+      ]
+    },
+    {
+      "name": "581 Englewood Avenue",
+      "plan": "Cumberland",
+      "id": "0008-581-englewood-avenue",
+      "address": "581 Englewood Avenue, McDonough, GA",
+      "price": "$440,990",
+      "beds": "4",
+      "baths": "2",
+      "sqft": "1885",
+      "status": "Move-in Ready",
+      "image_url": "https://www.centurycommunities.com/globalassets/century/assets/elevations--amenities/ccs/ccs--ca/central-valley/orchard-view/1885---cumberland/orchard-view-cumberland-elevation-b-right-swing-chowchilla-ca.jpg?width=410&height=250&mode=crop",
+      "url": "https://www.centurycommunities.com/find-your-new-home/california/central-california-metro/chowchilla/orchard-view/lots/0008-581-englewood-avenue/",
+      "latitude": 37.114612,
+      "longitude": -120.285904,
+      "overview": "Spacious Owner's Suite No HOA",
+      "images": [
+        "https://www.centurycommunities.com/globalassets/century/assets/elevations--amenities/ccs/ccs--ca/central-valley/orchard-view/1885---cumberland/orchard-view-cumberland-elevation-b-right-swing-chowchilla-ca.jpg?width=960&height=0&rmode=crop&rsampler=bicubic&compand=true&v=973",
+        "https://www.centurycommunities.com/globalassets/century/assets/elevations--amenities/ccs/ccs--ca/central-valley/orchard-view/0---interior-color-packages/dolce-ii---gray.jpg?width=960&height=0&rmode=crop&rsampler=bicubic&compand=true&v=627",
+        "https://www.centurycommunities.com/contentassets/f9bca9c9ee904ba6aedb8e61f4f2a11d/cv0225472_homeownerreferral_web_v1_540-x-370.jpg",
+        "https://www.centurycommunities.com/contentassets/7cfaa613e6654e4d94188a5e791803eb/hometownhero_2024_promotile_v1_644-x-455.jpg",
+        "https://www.centurycommunities.com/contentassets/876987536b10470c96a2334e8aa0166f/ccs-june-flash-sale-promo_slider.jpg"
+      ]
+    },
+    {
+      "name": "589 Victoria Avenue",
+      "plan": "Cumberland",
+      "id": "0062-589-victoria-avenue",
+      "address": "589 Victoria Avenue, McDonough, GA",
+      "price": "$455,060",
+      "beds": "4",
+      "baths": "2",
+      "sqft": "1885",
+      "status": "Move-in Ready",
+      "image_url": "https://www.centurycommunities.com/globalassets/century/assets/elevations--amenities/ccs/ccs--ca/central-valley/orchard-view/1885---cumberland/orchard-view-cumberland-elevation-c-left-swing-chowchilla-ca.jpg?width=410&height=250&mode=crop",
+      "url": "https://www.centurycommunities.com/find-your-new-home/california/central-california-metro/chowchilla/orchard-view/lots/0062-589-victoria-avenue/",
+      "latitude": 37.114612,
+      "longitude": -120.285904,
+      "overview": "No HOA",
+      "images": [
+        "https://www.centurycommunities.com/globalassets/century/assets/elevations--amenities/ccs/ccs--ca/central-valley/orchard-view/1885---cumberland/orchard-view-cumberland-elevation-c-left-swing-chowchilla-ca.jpg?width=960&height=0&rmode=crop&rsampler=bicubic&compand=true&v=97",
+        "https://www.centurycommunities.com/contentassets/f9bca9c9ee904ba6aedb8e61f4f2a11d/cv0225472_homeownerreferral_web_v1_540-x-370.jpg",
+        "https://www.centurycommunities.com/contentassets/7cfaa613e6654e4d94188a5e791803eb/hometownhero_2024_promotile_v1_644-x-455.jpg",
+        "https://www.centurycommunities.com/contentassets/876987536b10470c96a2334e8aa0166f/ccs-june-flash-sale-promo_slider.jpg"
+      ]
+    },
+    {
+      "name": "1605 Castro Avenue",
+      "plan": "Cumberland",
+      "id": "0047-1605-castro-avenue",
+      "address": "1605 Castro Avenue, McDonough, GA",
+      "price": "$461,950",
+      "beds": "4",
+      "baths": "2",
+      "sqft": "1885",
+      "status": "Move-in Ready",
+      "image_url": "https://www.centurycommunities.com/globalassets/century/assets/elevations--amenities/ccs/ccs--ca/central-valley/orchard-view/1885---cumberland/orchard-view-cumberland-3-bay-elevation-b-left-swing-chowchilla-ca.jpg?width=410&height=250&mode=crop",
+      "url": "https://www.centurycommunities.com/find-your-new-home/california/central-california-metro/chowchilla/orchard-view/lots/0047-1605-castro-avenue/",
+      "latitude": 37.114612,
+      "longitude": -120.285904,
+      "overview": "3-Bay Garage Blinds Included",
+      "images": [
+        "https://www.centurycommunities.com/globalassets/century/assets/elevations--amenities/ccs/ccs--ca/central-valley/orchard-view/1885---cumberland/orchard-view-cumberland-3-bay-elevation-b-left-swing-chowchilla-ca.jpg?width=960&height=0&rmode=crop&rsampler=bicubic&compand=true&v=602",
+        "https://www.centurycommunities.com/globalassets/century/assets/elevations--amenities/ccs/ccs--ca/central-valley/orchard-view/0---interior-color-packages/mezzo-ii---white.jpg?width=960&height=0&rmode=crop&rsampler=bicubic&compand=true&v=174",
+        "https://www.centurycommunities.com/contentassets/f9bca9c9ee904ba6aedb8e61f4f2a11d/cv0225472_homeownerreferral_web_v1_540-x-370.jpg",
+        "https://www.centurycommunities.com/contentassets/7cfaa613e6654e4d94188a5e791803eb/hometownhero_2024_promotile_v1_644-x-455.jpg",
+        "https://www.centurycommunities.com/contentassets/876987536b10470c96a2334e8aa0166f/ccs-june-flash-sale-promo_slider.jpg"
+      ]
+    }
+  ],
+  "nearbyplaces": [],
+  "collections": []
+}

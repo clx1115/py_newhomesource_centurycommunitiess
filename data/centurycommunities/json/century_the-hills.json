@@ -1,0 +1,35 @@
+{
+  "timestamp": "2025-06-17T16:49:19.513718",
+  "name": "The Hills at Avery Centre",
+  "status": "Active",
+  "url": "https://www.centurycommunities.com/find-your-new-home/texas/austin-metro/round-rock/avery-centre/the-hills/",
+  "price_from": "From $400",
+  "address": "2427 Ekvall Drive,, Round Rock, TX 78665",
+  "phone": "512-271-3860",
+  "description": "Welcome to The Hills at Avery Centre, a new home community offering inspired new homes for sale in Round Rock, TX from Century Communities. Known as the “Sports Capital of Texas,” Round Rock is conveniently situated near I-35—offering an easy drive from downtown Austin, along with regional employment and entertainment hubs. You’ll love the community’s prime location near Round Rock’s bustling downtown district, shopping, dining and an abundance of outdoor recreational opportunities, including dozens of parks and miles of trails. As one of the top Austin homebuilders, we are proud to offer versatile new homes for sale with beautiful open-concept layouts and designer-selected finishes. Check out our new houses for sale in Williamson County, TX and start your dream home journey today!",
+  "images": [
+    "https://www.centurycommunities.com/globalassets/century/assets/elevations--amenities/ccs/ccs-tx/austin/avery-centre---the-hills/lavaca/03_lavaca_avery-centre_ext.porchlike.jpg?width=960&height=0&rmode=crop&rsampler=bicubic&compand=true&v=632"
+  ],
+  "location": {
+    "latitude": 30.554710764493752,
+    "longitude": -97.63751967854643,
+    "address": {
+      "city": "Round Rock",
+      "state": "TX",
+      "market": "Atlanta Metro"
+    }
+  },
+  "details": {
+    "price_range": "From $400",
+    "sqft_range": null,
+    "bed_range": null,
+    "bath_range": null,
+    "stories_range": null,
+    "community_count": 1
+  },
+  "amenities": [],
+  "homeplans": [],
+  "homesites": [],
+  "nearbyplaces": [],
+  "collections": []
+}

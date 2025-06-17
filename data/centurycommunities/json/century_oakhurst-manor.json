@@ -1,0 +1,327 @@
+{
+  "timestamp": "2025-06-17T16:42:02.630619",
+  "name": "Oakhurst Manor",
+  "status": "Active",
+  "url": "https://www.centurycommunities.com/find-your-new-home/georgia/atlanta-metro/mcdonough2/oakhurst-manor/",
+  "price_from": "From $511,540",
+  "address": "108 Bastian Road,, McDonough, GA 30252",
+  "phone": "470-880-5910",
+  "description": "Discover Oakhurst Manor – New Homes for Sale in McDonough, GAWelcome to Oakhurst Manor, a new construction home community by Century Communities, offering beautifully designed homes for sale in McDonough, Georgia. Conveniently located just 30 minutes south of Atlanta along I-75, Oakhurst Manor provides easy access to major employment centers, shopping, dining, and entertainment hubs.",
+  "images": [
+    "https://www.centurycommunities.com/globalassets/century/assets/elevations--amenities/ccs/ccs-ga/oakhurst-manor/model-photos/laruchephoto-centurycommunities-oakhurst-manor-840nolaroad01.jpg?width=960&height=0&rmode=crop&rsampler=bicubic&compand=true&v=453"
+  ],
+  "location": {
+    "latitude": 33.753632286085754,
+    "longitude": -84.76919054106176,
+    "address": {
+      "city": "McDonough",
+      "state": "GA",
+      "market": "Atlanta Metro"
+    }
+  },
+  "details": {
+    "price_range": "From $511,540",
+    "sqft_range": "2,987 - 3,403 sq ft",
+    "bed_range": "4 - 5 Beds",
+    "bath_range": "3.0 - 4.0 Baths",
+    "stories_range": "2 Story",
+    "community_count": 1
+  },
+  "amenities": [],
+  "homeplans": [
+    {
+      "name": "Biltmore",
+      "url": "https://www.centurycommunities.com/find-your-new-home/georgia/atlanta-metro/mcdonough2/oakhurst-manor/lots/0096---4f829864/",
+      "details": {
+        "price": "$511,540",
+        "beds": "4 br",
+        "baths": "3 ba",
+        "sqft": "2,987 sq ft",
+        "status": "Actively selling",
+        "image_url": "https://www.centurycommunities.com/globalassets/century/assets/elevations--amenities/ccs/ccs-ga/oakhurst-manor/biltmore/laruche-century-271arwindrive-biltmore-lot67-lowres-forweb-7.jpg?width=410&height=250&mode=crop"
+      },
+      "includedFeatures": [],
+      "floorplan_images": [
+        {
+          "name": "First Floor Floorplan",
+          "image_url": "https://www.centurycommunities.com/globalassets/century/assets/elevations--amenities/ccs/ccs-ga/oakhurst-manor/biltmore/biltmore-first-floor.jpg?width=810&height=0&rmode=crop&rsampler=bicubic&compand=true&v=136"
+        },
+        {
+          "name": "Second Floor Floorplan",
+          "image_url": "https://www.centurycommunities.com/globalassets/century/assets/elevations--amenities/ccs/ccs-ga/oakhurst-manor/biltmore/biltmore-second-floor.jpg?width=810&height=0&rmode=crop&rsampler=bicubic&compand=true&v=367"
+        }
+      ]
+    },
+    {
+      "name": "Sequoia",
+      "url": "https://www.centurycommunities.com/find-your-new-home/georgia/atlanta-metro/mcdonough2/oakhurst-manor/lots/0081---52f0d3e5/",
+      "details": {
+        "price": "$528,035",
+        "beds": "5 br",
+        "baths": "4 ba",
+        "sqft": "3,403 sq ft",
+        "status": "Actively selling",
+        "image_url": "https://www.centurycommunities.com/globalassets/century/assets/elevations--amenities/ccs/ccs-ga/oakhurst-manor/inventory/sequioa/laruche-century-704hedwigdrive-sequoia-lot90-lowres-forweb-1.jpg?width=410&height=250&mode=crop"
+      },
+      "includedFeatures": [],
+      "floorplan_images": [
+        {
+          "name": "First Floor Floorplan",
+          "image_url": "https://www.centurycommunities.com/globalassets/century/assets/elevations--amenities/ccs/ccs-ga/oakhurst-manor/sequoia/sequoia-page-1.jpg?width=810&height=0&rmode=crop&rsampler=bicubic&compand=true&v=51"
+        },
+        {
+          "name": "Second Floor Floorplan",
+          "image_url": "https://www.centurycommunities.com/globalassets/century/assets/elevations--amenities/ccs/ccs-ga/oakhurst-manor/sequoia/sequoia-page-2.jpg?width=810&height=0&rmode=crop&rsampler=bicubic&compand=true&v=809"
+        }
+      ]
+    }
+  ],
+  "homesites": [
+    {
+      "name": "817 Dobby Way",
+      "plan": "Biltmore",
+      "id": "0096",
+      "address": "817 Dobby Way, McDonough, GA",
+      "price": "$511,540",
+      "beds": "4",
+      "baths": "3",
+      "sqft": "2987",
+      "status": "Move-in Ready",
+      "image_url": "https://www.centurycommunities.com/globalassets/century/assets/elevations--amenities/ccs/ccs-ga/oakhurst-manor/biltmore/laruche-century-271arwindrive-biltmore-lot67-lowres-forweb-7.jpg?width=410&height=250&mode=crop",
+      "url": "https://www.centurycommunities.com/find-your-new-home/georgia/atlanta-metro/mcdonough2/oakhurst-manor/lots/0096---4f829864/",
+      "latitude": 33.753632286085754,
+      "longitude": -84.76919054106176,
+      "overview": "Wood Stair Treads Large Primary Suite",
+      "images": [
+        "https://www.centurycommunities.com/globalassets/century/assets/elevations--amenities/ccs/ccs-ga/oakhurst-manor/biltmore/laruche-century-271arwindrive-biltmore-lot67-lowres-forweb-7.jpg?width=960&height=0&rmode=crop&rsampler=bicubic&compand=true&v=95",
+        "https://www.centurycommunities.com/globalassets/century/assets/elevations--amenities/ccs/ccs-ga/oakhurst-manor/biltmore/laruche-century-271arwindrive-biltmore-lot67-lowres-forweb-5.jpg?width=960&height=0&rmode=crop&rsampler=bicubic&compand=true&v=366",
+        "https://www.centurycommunities.com/globalassets/century/assets/elevations--amenities/ccs/ccs-ga/oakhurst-manor/biltmore/laruche-century-271arwindrive-biltmore-lot67-lowres-forweb-6.jpg?width=960&height=0&rmode=crop&rsampler=bicubic&compand=true&v=221",
+        "https://www.centurycommunities.com/globalassets/century/assets/elevations--amenities/ccs/ccs-ga/oakhurst-manor/biltmore/laruche-century-271arwindrive-biltmore-lot67-lowres-forweb-7.jpg?width=960&height=0&rmode=crop&rsampler=bicubic&compand=true&v=95",
+        "https://www.centurycommunities.com/globalassets/century/assets/elevations--amenities/ccs/ccs-ga/oakhurst-manor/biltmore/laruche-century-271arwindrive-biltmore-lot67-lowres-forweb-8.jpg?width=960&height=0&rmode=crop&rsampler=bicubic&compand=true&v=612",
+        "https://www.centurycommunities.com/globalassets/century/assets/elevations--amenities/ccs/ccs-ga/oakhurst-manor/biltmore/laruche-century-271arwindrive-biltmore-lot67-lowres-forweb-9.jpg?width=960&height=0&rmode=crop&rsampler=bicubic&compand=true&v=57",
+        "https://www.centurycommunities.com/globalassets/century/assets/elevations--amenities/ccs/ccs-ga/oakhurst-manor/biltmore/laruche-century-271arwindrive-biltmore-lot67-lowres-forweb-10.jpg?width=960&height=0&rmode=crop&rsampler=bicubic&compand=true&v=476",
+        "https://www.centurycommunities.com/globalassets/century/assets/elevations--amenities/ccs/ccs-ga/oakhurst-manor/biltmore/laruche-century-271arwindrive-biltmore-lot67-lowres-forweb-11.jpg?width=960&height=0&rmode=crop&rsampler=bicubic&compand=true&v=655",
+        "https://www.centurycommunities.com/globalassets/century/assets/elevations--amenities/ccs/ccs-ga/oakhurst-manor/biltmore/laruche-century-271arwindrive-biltmore-lot67-lowres-forweb-12.jpg?width=960&height=0&rmode=crop&rsampler=bicubic&compand=true&v=365",
+        "https://www.centurycommunities.com/globalassets/century/assets/elevations--amenities/ccs/ccs-ga/oakhurst-manor/biltmore/laruche-century-271arwindrive-biltmore-lot67-lowres-forweb-13.jpg?width=960&height=0&rmode=crop&rsampler=bicubic&compand=true&v=84",
+        "https://www.centurycommunities.com/globalassets/century/assets/elevations--amenities/ccs/ccs-ga/oakhurst-manor/biltmore/laruche-century-271arwindrive-biltmore-lot67-lowres-forweb-14.jpg?width=960&height=0&rmode=crop&rsampler=bicubic&compand=true&v=204",
+        "https://www.centurycommunities.com/globalassets/century/assets/elevations--amenities/ccs/ccs-ga/oakhurst-manor/biltmore/laruche-century-271arwindrive-biltmore-lot67-lowres-forweb-15.jpg?width=960&height=0&rmode=crop&rsampler=bicubic&compand=true&v=123"
+      ]
+    },
+    {
+      "name": "820 Dobby Way",
+      "plan": "Biltmore",
+      "id": "0099",
+      "address": "820 Dobby Way, McDonough, GA",
+      "price": "$516,785",
+      "beds": "4",
+      "baths": "3",
+      "sqft": "2987",
+      "status": "Move-in Ready",
+      "image_url": "https://www.centurycommunities.com/globalassets/century/assets/elevations--amenities/ccs/ccs-ga/oakhurst-manor/inventory/biltmore-104/laruchephoto-oakhurstmanor-lot104-800dobbyway-biltmore-lowres-forweb-1.jpg?width=410&height=250&mode=crop",
+      "url": "https://www.centurycommunities.com/find-your-new-home/georgia/atlanta-metro/mcdonough2/oakhurst-manor/lots/0099---1bbb6a0f/",
+      "latitude": 33.753632286085754,
+      "longitude": -84.76919054106176,
+      "overview": "Covered Patio Two Story Family Room",
+      "images": [
+        "https://www.centurycommunities.com/globalassets/century/assets/elevations--amenities/ccs/ccs-ga/oakhurst-manor/inventory/biltmore-104/laruchephoto-oakhurstmanor-lot104-800dobbyway-biltmore-lowres-forweb-1.jpg?width=960&height=0&rmode=crop&rsampler=bicubic&compand=true&v=242",
+        "https://www.centurycommunities.com/globalassets/century/assets/elevations--amenities/ccs/ccs-ga/oakhurst-manor/inventory/biltmore-104/laruchephoto-oakhurstmanor-lot104-800dobbyway-biltmore-lowres-forweb-24.jpg?width=960&height=0&rmode=crop&rsampler=bicubic&compand=true&v=800",
+        "https://www.centurycommunities.com/globalassets/century/assets/elevations--amenities/ccs/ccs-ga/oakhurst-manor/inventory/biltmore-104/laruchephoto-oakhurstmanor-lot104-800dobbyway-biltmore-lowres-forweb-25.jpg?width=960&height=0&rmode=crop&rsampler=bicubic&compand=true&v=819",
+        "https://www.centurycommunities.com/globalassets/century/assets/elevations--amenities/ccs/ccs-ga/oakhurst-manor/inventory/biltmore-104/laruchephoto-oakhurstmanor-lot104-800dobbyway-biltmore-lowres-forweb-26.jpg?width=960&height=0&rmode=crop&rsampler=bicubic&compand=true&v=745",
+        "https://www.centurycommunities.com/globalassets/century/assets/elevations--amenities/ccs/ccs-ga/oakhurst-manor/inventory/biltmore-104/laruchephoto-oakhurstmanor-lot104-800dobbyway-biltmore-lowres-forweb-27.jpg?width=960&height=0&rmode=crop&rsampler=bicubic&compand=true&v=752",
+        "https://www.centurycommunities.com/globalassets/century/assets/elevations--amenities/ccs/ccs-ga/oakhurst-manor/inventory/biltmore-104/laruchephoto-oakhurstmanor-lot104-800dobbyway-biltmore-lowres-forweb-28.jpg?width=960&height=0&rmode=crop&rsampler=bicubic&compand=true&v=798",
+        "https://www.centurycommunities.com/globalassets/century/assets/elevations--amenities/ccs/ccs-ga/oakhurst-manor/inventory/biltmore-104/laruchephoto-oakhurstmanor-lot104-800dobbyway-biltmore-lowres-forweb-5.jpg?width=960&height=0&rmode=crop&rsampler=bicubic&compand=true&v=620",
+        "https://www.centurycommunities.com/globalassets/century/assets/elevations--amenities/ccs/ccs-ga/oakhurst-manor/inventory/biltmore-104/laruchephoto-oakhurstmanor-lot104-800dobbyway-biltmore-lowres-forweb-6.jpg?width=960&height=0&rmode=crop&rsampler=bicubic&compand=true&v=708",
+        "https://www.centurycommunities.com/globalassets/century/assets/elevations--amenities/ccs/ccs-ga/oakhurst-manor/inventory/biltmore-104/laruchephoto-oakhurstmanor-lot104-800dobbyway-biltmore-lowres-forweb-7.jpg?width=960&height=0&rmode=crop&rsampler=bicubic&compand=true&v=378",
+        "https://www.centurycommunities.com/globalassets/century/assets/elevations--amenities/ccs/ccs-ga/oakhurst-manor/inventory/biltmore-104/laruchephoto-oakhurstmanor-lot104-800dobbyway-biltmore-lowres-forweb-8.jpg?width=960&height=0&rmode=crop&rsampler=bicubic&compand=true&v=437",
+        "https://www.centurycommunities.com/globalassets/century/assets/elevations--amenities/ccs/ccs-ga/oakhurst-manor/inventory/biltmore-104/laruchephoto-oakhurstmanor-lot104-800dobbyway-biltmore-lowres-forweb-9.jpg?width=960&height=0&rmode=crop&rsampler=bicubic&compand=true&v=532",
+        "https://www.centurycommunities.com/globalassets/century/assets/elevations--amenities/ccs/ccs-ga/oakhurst-manor/inventory/biltmore-104/laruchephoto-oakhurstmanor-lot104-800dobbyway-biltmore-lowres-forweb-10.jpg?width=960&height=0&rmode=crop&rsampler=bicubic&compand=true&v=849"
+      ]
+    },
+    {
+      "name": "821 Dobby Way",
+      "plan": "Biltmore",
+      "id": "0097",
+      "address": "821 Dobby Way, McDonough, GA",
+      "price": "$523,875",
+      "beds": "4",
+      "baths": "3",
+      "sqft": "2987",
+      "status": "Move-in Ready",
+      "image_url": "https://www.centurycommunities.com/globalassets/century/assets/elevations--amenities/ccs/ccs-ga/oakhurst-manor/inventory/91/laruchephoto-oakhurstmanor-lot91-700hedwig-biltmore-lowres-forweb-1.jpg?width=410&height=250&mode=crop",
+      "url": "https://www.centurycommunities.com/find-your-new-home/georgia/atlanta-metro/mcdonough2/oakhurst-manor/lots/0097---dc205032/",
+      "latitude": 33.753632286085754,
+      "longitude": -84.76919054106176,
+      "overview": "Covered Patio Large Yard",
+      "images": [
+        "https://www.centurycommunities.com/globalassets/century/assets/elevations--amenities/ccs/ccs-ga/oakhurst-manor/inventory/91/laruchephoto-oakhurstmanor-lot91-700hedwig-biltmore-lowres-forweb-1.jpg?width=960&height=0&rmode=crop&rsampler=bicubic&compand=true&v=527",
+        "https://www.centurycommunities.com/globalassets/century/assets/elevations--amenities/ccs/ccs-ga/oakhurst-manor/inventory/91/laruchephoto-oakhurstmanor-lot91-700hedwig-biltmore-lowres-forweb-30.jpg?width=960&height=0&rmode=crop&rsampler=bicubic&compand=true&v=590",
+        "https://www.centurycommunities.com/globalassets/century/assets/elevations--amenities/ccs/ccs-ga/oakhurst-manor/inventory/91/laruchephoto-oakhurstmanor-lot91-700hedwig-biltmore-lowres-forweb-5.jpg?width=960&height=0&rmode=crop&rsampler=bicubic&compand=true&v=765",
+        "https://www.centurycommunities.com/globalassets/century/assets/elevations--amenities/ccs/ccs-ga/oakhurst-manor/inventory/91/laruchephoto-oakhurstmanor-lot91-700hedwig-biltmore-lowres-forweb-6.jpg?width=960&height=0&rmode=crop&rsampler=bicubic&compand=true&v=716",
+        "https://www.centurycommunities.com/globalassets/century/assets/elevations--amenities/ccs/ccs-ga/oakhurst-manor/inventory/91/laruchephoto-oakhurstmanor-lot91-700hedwig-biltmore-lowres-forweb-7.jpg?width=960&height=0&rmode=crop&rsampler=bicubic&compand=true&v=252",
+        "https://www.centurycommunities.com/globalassets/century/assets/elevations--amenities/ccs/ccs-ga/oakhurst-manor/inventory/91/laruchephoto-oakhurstmanor-lot91-700hedwig-biltmore-lowres-forweb-8.jpg?width=960&height=0&rmode=crop&rsampler=bicubic&compand=true&v=169",
+        "https://www.centurycommunities.com/globalassets/century/assets/elevations--amenities/ccs/ccs-ga/oakhurst-manor/inventory/91/laruchephoto-oakhurstmanor-lot91-700hedwig-biltmore-lowres-forweb-9.jpg?width=960&height=0&rmode=crop&rsampler=bicubic&compand=true&v=622",
+        "https://www.centurycommunities.com/globalassets/century/assets/elevations--amenities/ccs/ccs-ga/oakhurst-manor/inventory/91/laruchephoto-oakhurstmanor-lot91-700hedwig-biltmore-lowres-forweb-10.jpg?width=960&height=0&rmode=crop&rsampler=bicubic&compand=true&v=181",
+        "https://www.centurycommunities.com/globalassets/century/assets/elevations--amenities/ccs/ccs-ga/oakhurst-manor/inventory/91/laruchephoto-oakhurstmanor-lot91-700hedwig-biltmore-lowres-forweb-11.jpg?width=960&height=0&rmode=crop&rsampler=bicubic&compand=true&v=860",
+        "https://www.centurycommunities.com/globalassets/century/assets/elevations--amenities/ccs/ccs-ga/oakhurst-manor/inventory/91/laruchephoto-oakhurstmanor-lot91-700hedwig-biltmore-lowres-forweb-12.jpg?width=960&height=0&rmode=crop&rsampler=bicubic&compand=true&v=957",
+        "https://www.centurycommunities.com/globalassets/century/assets/elevations--amenities/ccs/ccs-ga/oakhurst-manor/inventory/91/laruchephoto-oakhurstmanor-lot91-700hedwig-biltmore-lowres-forweb-13.jpg?width=960&height=0&rmode=crop&rsampler=bicubic&compand=true&v=954",
+        "https://www.centurycommunities.com/globalassets/century/assets/elevations--amenities/ccs/ccs-ga/oakhurst-manor/inventory/91/laruchephoto-oakhurstmanor-lot91-700hedwig-biltmore-lowres-forweb-14.jpg?width=960&height=0&rmode=crop&rsampler=bicubic&compand=true&v=315"
+      ]
+    },
+    {
+      "name": "727 Hedwig Drive",
+      "plan": "Sequoia",
+      "id": "0081",
+      "address": "727 Hedwig Drive, McDonough, GA",
+      "price": "$528,035",
+      "beds": "5",
+      "baths": "4",
+      "sqft": "3403",
+      "status": "Move-in Ready",
+      "image_url": "https://www.centurycommunities.com/globalassets/century/assets/elevations--amenities/ccs/ccs-ga/oakhurst-manor/inventory/sequioa/laruche-century-704hedwigdrive-sequoia-lot90-lowres-forweb-1.jpg?width=410&height=250&mode=crop",
+      "url": "https://www.centurycommunities.com/find-your-new-home/georgia/atlanta-metro/mcdonough2/oakhurst-manor/lots/0081---52f0d3e5/",
+      "latitude": 33.753632286085754,
+      "longitude": -84.76919054106176,
+      "overview": "Cul-de-Sac Lot Spacious Loft",
+      "images": [
+        "https://www.centurycommunities.com/globalassets/century/assets/elevations--amenities/ccs/ccs-ga/oakhurst-manor/inventory/sequioa/laruche-century-704hedwigdrive-sequoia-lot90-lowres-forweb-1.jpg?width=960&height=0&rmode=crop&rsampler=bicubic&compand=true&v=142",
+        "https://www.centurycommunities.com/globalassets/century/assets/elevations--amenities/ccs/ccs-ga/oakhurst-manor/inventory/sequioa/laruche-century-704hedwigdrive-sequoia-lot90-lowres-forweb-3.jpg?width=960&height=0&rmode=crop&rsampler=bicubic&compand=true&v=150",
+        "https://www.centurycommunities.com/globalassets/century/assets/elevations--amenities/ccs/ccs-ga/oakhurst-manor/inventory/sequioa/laruche-century-704hedwigdrive-sequoia-lot90-lowres-forweb-4.jpg?width=960&height=0&rmode=crop&rsampler=bicubic&compand=true&v=73",
+        "https://www.centurycommunities.com/globalassets/century/assets/elevations--amenities/ccs/ccs-ga/oakhurst-manor/inventory/sequioa/laruche-century-704hedwigdrive-sequoia-lot90-lowres-forweb-5.jpg?width=960&height=0&rmode=crop&rsampler=bicubic&compand=true&v=808",
+        "https://www.centurycommunities.com/globalassets/century/assets/elevations--amenities/ccs/ccs-ga/oakhurst-manor/inventory/sequioa/laruche-century-704hedwigdrive-sequoia-lot90-lowres-forweb-6.jpg?width=960&height=0&rmode=crop&rsampler=bicubic&compand=true&v=138",
+        "https://www.centurycommunities.com/globalassets/century/assets/elevations--amenities/ccs/ccs-ga/oakhurst-manor/inventory/sequioa/laruche-century-704hedwigdrive-sequoia-lot90-lowres-forweb-7.jpg?width=960&height=0&rmode=crop&rsampler=bicubic&compand=true&v=389",
+        "https://www.centurycommunities.com/globalassets/century/assets/elevations--amenities/ccs/ccs-ga/oakhurst-manor/inventory/sequioa/laruche-century-704hedwigdrive-sequoia-lot90-lowres-forweb-8.jpg?width=960&height=0&rmode=crop&rsampler=bicubic&compand=true&v=74",
+        "https://www.centurycommunities.com/globalassets/century/assets/elevations--amenities/ccs/ccs-ga/oakhurst-manor/inventory/sequioa/laruche-century-704hedwigdrive-sequoia-lot90-lowres-forweb-9.jpg?width=960&height=0&rmode=crop&rsampler=bicubic&compand=true&v=959",
+        "https://www.centurycommunities.com/globalassets/century/assets/elevations--amenities/ccs/ccs-ga/oakhurst-manor/inventory/sequioa/laruche-century-704hedwigdrive-sequoia-lot90-lowres-forweb-10.jpg?width=960&height=0&rmode=crop&rsampler=bicubic&compand=true&v=8",
+        "https://www.centurycommunities.com/globalassets/century/assets/elevations--amenities/ccs/ccs-ga/oakhurst-manor/inventory/sequioa/laruche-century-704hedwigdrive-sequoia-lot90-lowres-forweb-11.jpg?width=960&height=0&rmode=crop&rsampler=bicubic&compand=true&v=142",
+        "https://www.centurycommunities.com/globalassets/century/assets/elevations--amenities/ccs/ccs-ga/oakhurst-manor/inventory/sequioa/laruche-century-704hedwigdrive-sequoia-lot90-lowres-forweb-12.jpg?width=960&height=0&rmode=crop&rsampler=bicubic&compand=true&v=224",
+        "https://www.centurycommunities.com/globalassets/century/assets/elevations--amenities/ccs/ccs-ga/oakhurst-manor/inventory/sequioa/laruche-century-704hedwigdrive-sequoia-lot90-lowres-forweb-13.jpg?width=960&height=0&rmode=crop&rsampler=bicubic&compand=true&v=972"
+      ]
+    },
+    {
+      "name": "728 Hedwig Drive",
+      "plan": "Biltmore",
+      "id": "0084",
+      "address": "728 Hedwig Drive, McDonough, GA",
+      "price": "$549,990",
+      "beds": "4",
+      "baths": "3",
+      "sqft": "2987",
+      "status": "Move-in Ready",
+      "image_url": "https://www.centurycommunities.com/globalassets/century/assets/elevations--amenities/ccs/ccs-ga/oakhurst-manor/inventory/biltmore-67/laruche-century-271arwindrive-biltmore-lot67-lowres-forweb-1.jpg?width=410&height=250&mode=crop",
+      "url": "https://www.centurycommunities.com/find-your-new-home/georgia/atlanta-metro/mcdonough2/oakhurst-manor/lots/0084---76ed8cb0/",
+      "latitude": 33.753632286085754,
+      "longitude": -84.76919054106176,
+      "overview": "Basement Lot Spacious Loft",
+      "images": [
+        "https://www.centurycommunities.com/globalassets/century/assets/elevations--amenities/ccs/ccs-ga/oakhurst-manor/inventory/biltmore-67/laruche-century-271arwindrive-biltmore-lot67-lowres-forweb-1.jpg?width=960&height=0&rmode=crop&rsampler=bicubic&compand=true&v=807",
+        "https://www.centurycommunities.com/globalassets/century/assets/elevations--amenities/ccs/ccs-ga/oakhurst-manor/inventory/biltmore-67/laruche-century-271arwindrive-biltmore-lot67-lowres-forweb-4.jpg?width=960&height=0&rmode=crop&rsampler=bicubic&compand=true&v=611",
+        "https://www.centurycommunities.com/globalassets/century/assets/elevations--amenities/ccs/ccs-ga/oakhurst-manor/inventory/biltmore-67/laruche-century-271arwindrive-biltmore-lot67-lowres-forweb-5.jpg?width=960&height=0&rmode=crop&rsampler=bicubic&compand=true&v=348",
+        "https://www.centurycommunities.com/globalassets/century/assets/elevations--amenities/ccs/ccs-ga/oakhurst-manor/inventory/biltmore-67/laruche-century-271arwindrive-biltmore-lot67-lowres-forweb-6.jpg?width=960&height=0&rmode=crop&rsampler=bicubic&compand=true&v=930",
+        "https://www.centurycommunities.com/globalassets/century/assets/elevations--amenities/ccs/ccs-ga/oakhurst-manor/inventory/biltmore-67/laruche-century-271arwindrive-biltmore-lot67-lowres-forweb-7.jpg?width=960&height=0&rmode=crop&rsampler=bicubic&compand=true&v=411",
+        "https://www.centurycommunities.com/globalassets/century/assets/elevations--amenities/ccs/ccs-ga/oakhurst-manor/inventory/biltmore-67/laruche-century-271arwindrive-biltmore-lot67-lowres-forweb-8.jpg?width=960&height=0&rmode=crop&rsampler=bicubic&compand=true&v=493",
+        "https://www.centurycommunities.com/globalassets/century/assets/elevations--amenities/ccs/ccs-ga/oakhurst-manor/inventory/biltmore-67/laruche-century-271arwindrive-biltmore-lot67-lowres-forweb-9.jpg?width=960&height=0&rmode=crop&rsampler=bicubic&compand=true&v=332",
+        "https://www.centurycommunities.com/globalassets/century/assets/elevations--amenities/ccs/ccs-ga/oakhurst-manor/inventory/biltmore-67/laruche-century-271arwindrive-biltmore-lot67-lowres-forweb-10.jpg?width=960&height=0&rmode=crop&rsampler=bicubic&compand=true&v=980",
+        "https://www.centurycommunities.com/globalassets/century/assets/elevations--amenities/ccs/ccs-ga/oakhurst-manor/inventory/biltmore-67/laruche-century-271arwindrive-biltmore-lot67-lowres-forweb-11.jpg?width=960&height=0&rmode=crop&rsampler=bicubic&compand=true&v=159",
+        "https://www.centurycommunities.com/globalassets/century/assets/elevations--amenities/ccs/ccs-ga/oakhurst-manor/inventory/biltmore-67/laruche-century-271arwindrive-biltmore-lot67-lowres-forweb-12.jpg?width=960&height=0&rmode=crop&rsampler=bicubic&compand=true&v=789",
+        "https://www.centurycommunities.com/globalassets/century/assets/elevations--amenities/ccs/ccs-ga/oakhurst-manor/inventory/biltmore-67/laruche-century-271arwindrive-biltmore-lot67-lowres-forweb-13.jpg?width=960&height=0&rmode=crop&rsampler=bicubic&compand=true&v=327",
+        "https://www.centurycommunities.com/globalassets/century/assets/elevations--amenities/ccs/ccs-ga/oakhurst-manor/inventory/biltmore-67/laruche-century-271arwindrive-biltmore-lot67-lowres-forweb-14.jpg?width=960&height=0&rmode=crop&rsampler=bicubic&compand=true&v=310"
+      ]
+    },
+    {
+      "name": "731 Hedwig Drive",
+      "plan": "Biltmore",
+      "id": "0082",
+      "address": "731 Hedwig Drive, McDonough, GA",
+      "price": "$580,215",
+      "beds": "5",
+      "baths": "4",
+      "sqft": "2987",
+      "status": "Move-in Ready",
+      "image_url": "https://www.centurycommunities.com/globalassets/century/assets/elevations--amenities/ccs/ccs-ga/oakhurst-manor/inventory/biltmore-104/laruchephoto-oakhurstmanor-lot104-800dobbyway-biltmore-lowres-forweb-1.jpg?width=410&height=250&mode=crop",
+      "url": "https://www.centurycommunities.com/find-your-new-home/georgia/atlanta-metro/mcdonough2/oakhurst-manor/lots/0082---1d700396/",
+      "latitude": 33.753632286085754,
+      "longitude": -84.76919054106176,
+      "overview": "Basement Lot Two Story Foyer",
+      "images": [
+        "https://www.centurycommunities.com/globalassets/century/assets/elevations--amenities/ccs/ccs-ga/oakhurst-manor/inventory/biltmore-104/laruchephoto-oakhurstmanor-lot104-800dobbyway-biltmore-lowres-forweb-1.jpg?width=960&height=0&rmode=crop&rsampler=bicubic&compand=true&v=242",
+        "https://www.centurycommunities.com/globalassets/century/assets/elevations--amenities/ccs/ccs-ga/oakhurst-manor/inventory/biltmore-104/laruchephoto-oakhurstmanor-lot104-800dobbyway-biltmore-lowres-forweb-24.jpg?width=960&height=0&rmode=crop&rsampler=bicubic&compand=true&v=800",
+        "https://www.centurycommunities.com/globalassets/century/assets/elevations--amenities/ccs/ccs-ga/oakhurst-manor/inventory/biltmore-104/laruchephoto-oakhurstmanor-lot104-800dobbyway-biltmore-lowres-forweb-25.jpg?width=960&height=0&rmode=crop&rsampler=bicubic&compand=true&v=819",
+        "https://www.centurycommunities.com/globalassets/century/assets/elevations--amenities/ccs/ccs-ga/oakhurst-manor/inventory/biltmore-104/laruchephoto-oakhurstmanor-lot104-800dobbyway-biltmore-lowres-forweb-26.jpg?width=960&height=0&rmode=crop&rsampler=bicubic&compand=true&v=745",
+        "https://www.centurycommunities.com/globalassets/century/assets/elevations--amenities/ccs/ccs-ga/oakhurst-manor/inventory/biltmore-104/laruchephoto-oakhurstmanor-lot104-800dobbyway-biltmore-lowres-forweb-27.jpg?width=960&height=0&rmode=crop&rsampler=bicubic&compand=true&v=752",
+        "https://www.centurycommunities.com/globalassets/century/assets/elevations--amenities/ccs/ccs-ga/oakhurst-manor/inventory/biltmore-104/laruchephoto-oakhurstmanor-lot104-800dobbyway-biltmore-lowres-forweb-28.jpg?width=960&height=0&rmode=crop&rsampler=bicubic&compand=true&v=798",
+        "https://www.centurycommunities.com/globalassets/century/assets/elevations--amenities/ccs/ccs-ga/oakhurst-manor/inventory/biltmore-104/laruchephoto-oakhurstmanor-lot104-800dobbyway-biltmore-lowres-forweb-1.jpg?width=960&height=0&rmode=crop&rsampler=bicubic&compand=true&v=242",
+        "https://www.centurycommunities.com/globalassets/century/assets/elevations--amenities/ccs/ccs-ga/oakhurst-manor/inventory/biltmore-104/laruchephoto-oakhurstmanor-lot104-800dobbyway-biltmore-lowres-forweb-5.jpg?width=960&height=0&rmode=crop&rsampler=bicubic&compand=true&v=620",
+        "https://www.centurycommunities.com/globalassets/century/assets/elevations--amenities/ccs/ccs-ga/oakhurst-manor/inventory/biltmore-104/laruchephoto-oakhurstmanor-lot104-800dobbyway-biltmore-lowres-forweb-6.jpg?width=960&height=0&rmode=crop&rsampler=bicubic&compand=true&v=708",
+        "https://www.centurycommunities.com/globalassets/century/assets/elevations--amenities/ccs/ccs-ga/oakhurst-manor/inventory/biltmore-104/laruchephoto-oakhurstmanor-lot104-800dobbyway-biltmore-lowres-forweb-7.jpg?width=960&height=0&rmode=crop&rsampler=bicubic&compand=true&v=378",
+        "https://www.centurycommunities.com/globalassets/century/assets/elevations--amenities/ccs/ccs-ga/oakhurst-manor/inventory/biltmore-104/laruchephoto-oakhurstmanor-lot104-800dobbyway-biltmore-lowres-forweb-8.jpg?width=960&height=0&rmode=crop&rsampler=bicubic&compand=true&v=437",
+        "https://www.centurycommunities.com/globalassets/century/assets/elevations--amenities/ccs/ccs-ga/oakhurst-manor/inventory/biltmore-104/laruchephoto-oakhurstmanor-lot104-800dobbyway-biltmore-lowres-forweb-9.jpg?width=960&height=0&rmode=crop&rsampler=bicubic&compand=true&v=532"
+      ]
+    }
+  ],
+  "nearbyplaces": [
+    {
+      "name": "Ola Elemantary School",
+      "category": "Schools",
+      "distance": null,
+      "rating": null,
+      "reviews": null
+    },
+    {
+      "name": "Ola Middle School",
+      "category": "Schools",
+      "distance": null,
+      "rating": null,
+      "reviews": null
+    },
+    {
+      "name": "Ola High School",
+      "category": "Schools",
+      "distance": null,
+      "rating": null,
+      "reviews": null
+    },
+    {
+      "name": "Publix Super Market at Shoppes at Ola Crossroads",
+      "category": "Shopping",
+      "distance": null,
+      "rating": null,
+      "reviews": null
+    },
+    {
+      "name": "Shoppes at Ola Crossroads",
+      "category": "Shopping",
+      "distance": null,
+      "rating": null,
+      "reviews": null
+    },
+    {
+      "name": "Shoppes at Lake Dow",
+      "category": "Shopping",
+      "distance": null,
+      "rating": null,
+      "reviews": null
+    },
+    {
+      "name": "Pilgreen's Steakhouse",
+      "category": "Dining",
+      "distance": null,
+      "rating": null,
+      "reviews": null
+    },
+    {
+      "name": "Los Postales Mexican Grill & Bar",
+      "category": "Dining",
+      "distance": null,
+      "rating": null,
+      "reviews": null
+    },
+    {
+      "name": "Shane's Rib Shack",
+      "category": "Dining",
+      "distance": null,
+      "rating": null,
+      "reviews": null
+    }
+  ],
+  "collections": []
+}
