@@ -281,6 +281,7 @@ def fetch_page(url, output_dir='data/centurycommunities'):
         soup = BeautifulSoup(driver.page_source, 'html.parser')
         data = {
             "timestamp": datetime.now().isoformat(),
+            "builder": "Century Communities",
             "name": None,
             "status": "Active",
             "url": url,
