@@ -256,6 +256,40 @@ def get_homesite_images(driver, url):
         logger.error(f"Error getting homesite images: {str(e)}")
         return []
 
+def extract_overview_description(soup):
+    """Extract only the description text after strong tag"""
+    overview_div = soup.find('div', class_='overview-description full')
+    if not overview_div:
+        return None
+    
+    # 找到所有p标签
+    p_tags = overview_div.find_all('p')
+    description_text = []
+    
+    for p in p_tags:
+        # 找到strong标签
+        strong = p.find('strong')
+        if strong:
+            # 获取strong标签后面的文本
+            # 将strong标签替换为空字符串
+            p_text = str(p)
+            p_text = p_text.replace(str(strong), '')
+            # 创建新的BeautifulSoup对象解析剩余文本
+            p_copy = BeautifulSoup(p_text, 'html.parser')
+            # 获取处理后的文本
+            text = p_copy.get_text(strip=True)
+            # 移除开头的逗号或破折号（如果有）
+            text = text.lstrip(',-').strip()
+            if text:
+                description_text.append(text)
+        else:
+            # 如果没有strong标签，保留整个文本
+            text = p.get_text(strip=True)
+            if text:
+                description_text.append(text)
+    
+    return ' '.join(description_text) if description_text else None
+
 def fetch_page(url, output_dir='data/centurycommunities'):
     """Fetch and parse page data"""
     driver = None
@@ -420,6 +454,12 @@ def fetch_page(url, output_dir='data/centurycommunities'):
         if main_image:
             data["images"] = [main_image]
             logger.info("Found main image")
+
+        # Extract overview description
+        overview_description = extract_overview_description(soup)
+        if overview_description:
+            data["description"] = overview_description
+            logger.info("Found overview description")
 
         # Extract home plans with driver for floor plan images
         data['homeplans'] = extract_homeplans(soup, driver)
